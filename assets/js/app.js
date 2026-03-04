@@ -6,7 +6,7 @@ const CONFIG = {
   eventISO: "2026-12-15T20:00:00-03:00",   // Fecha/hora del evento (Paraguay -03:00)
   whatsappNumber: "595983957615",          // Cambia a tu número: ejemplo 59598xxxxxxx (sin +)
   eventTitle: "María & Juan • Boda",
-  eventLocation: "Salón Los Cedros, Carapeguá",
+  eventLocation: "Tinglado Club Mariscal López / Valenzuela/Cordillera/Paraguay",
   googleMapsLink: "https://www.google.com/maps/place/Valenzuela/@-25.5932461,-56.8706631,3064m/data=!3m2!1e3!4b1!4m6!3m5!1s0x945e9f749c2db873:0x36bcef5d7584acf8!8m2!3d-25.5925766!4d-56.8714572!16zL20vMDcxZ2Jz?entry=ttu&g_ep=EgoyMDI2MDMwMS4xIKXMDSoASAFQAw%3D%3D",
 };
 
